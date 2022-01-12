@@ -11,6 +11,7 @@ class ArumnetTest01ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
